@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+you can find the [Demo](https://al-weather.netlify.app/).
 
 ## Available Scripts
 
